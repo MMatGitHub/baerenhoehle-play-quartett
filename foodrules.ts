@@ -1,1 +1,1 @@
-Deno.serve((req: Request) => new Response("Brummel Brumm Welt"));
+Deno.serve((req: Request) => new Response("Ergebnis=win"));
